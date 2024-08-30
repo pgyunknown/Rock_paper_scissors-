@@ -18,6 +18,8 @@ button img{
   padding: 25px;
 }
 .emoji{
+  display: flex;
+  flex-direction: ;
   background-color: black;
     border: none;
   /* border-radius: 70px;

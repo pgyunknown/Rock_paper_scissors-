@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  color: white;
+}
+.title{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+button img{
+  height: 100px;
+  width: 50px;
+  background-color: black;
+  /* border: 1px solid white;
+  border-radius: 70px; */
+}
+.emoji{
+  background-color: black;
+    border: 1px solid white;
+  border-radius: 70px;
+  margin: 0px 10px 0px 10px;
+}

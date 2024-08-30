@@ -14,8 +14,8 @@ button img{
   width: 100px;
   background-color: black;
   border: 1px solid white;
-  border-radius: 50%;
-  padding: 25px;
+  border-radius: 100%;
+  padding: 20px;
 }
 .emoji{
   background-color: black;

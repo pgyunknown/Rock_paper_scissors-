@@ -1,8 +1,6 @@
 body{
   background-color: black;
   color: white;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-weight: bold;
 }
 .title{
   font-size: 50px;
@@ -14,12 +12,10 @@ button img{
   width: 100px;
   background-color: black;
   border: 1px solid white;
-  border-radius: 50%;
-  padding: 25px;
+  border-radius: 50px;
+  padding: 40px;
 }
 .emoji{
   background-color: black;
-    border: none;
-  /* border-radius: 70px;
-  margin: 0px 10px 0px 10px; */
+  border: none;
 }

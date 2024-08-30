@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+  color: white;
+}
+.title{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+button img{
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 70px;
+  margin: 50px;
+}
+.emoji{
+  background-color: black;
+  border: none;
+}

@@ -13,24 +13,18 @@
 
     <button onclick="
       playGame('paper');
-    " class="emoji"><img src="images/paper-emoji.png" alt=""></button>
+    "class="emoji"><img src="images/paper-emoji.png" alt=""></button>
 
     <button onclick="
       playGame('scissors');
-    " class="emoji"><img src="images/scissors-emoji.png" alt=""></button>
-    <br>
-    <p class="js-result result"></p>
-    <p class="js-moves"></p>
-    <p class="js-score score"></p>
+    "class="emoji"><img src="images/scissors-emoji.png" alt=""></button>
 
     <button onclick="
       score.wins = 0;
       score.losses = 0;
       score.ties = 0;
       localStorage.removeItem('score');
-      updateScoreElement();
-    " class="reset-score-button">Reset Score</button>
-
+    ">Reset Score</button>
 
     <script src="index.js">
 
